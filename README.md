@@ -1,4 +1,4 @@
-### Olá
+### Olá, meu nome é Luiz e estou em busca de conhecimento prático em Front-end, para poder aplicar o que já compreendo como também apreender ainda mais com a experiência que viria a obter, no entanto não me limitando apenas à esse nicho em específico, podendo aprender novos caminhos com as demais tecnologias, pois todas possuem seu papel no todo. Acredito que o bom relacionamento no ambiente de trabalho seja tão importante quanto o conhecimento e bagagem entre as pessoas envolvidas, potencializando de modo que se torne um trabalho mais conectado e desse modo melhor executado.
 
 - 🔭 Atualmente trabalhando com Front-End
 - 🌱 Estudando JavaScript / TypeScript e React
