@@ -1,5 +1,12 @@
 ### Olá, meu nome é Luiz
-<p>Estou em busca de conhecimento prático em Front-end, para poder aplicar o que já compreendo como também apreender ainda mais com a experiência que viria a obter, no entanto não me limitando apenas à esse nicho em específico, podendo aprender novos caminhos com as demais tecnologias, pois todas possuem seu papel no todo. Acredito que o bom relacionamento no ambiente de trabalho seja tão importante quanto o conhecimento e bagagem entre as pessoas envolvidas, potencializando de modo que se torne um trabalho mais conectado e desse modo melhor executado.
+<p>Sou uma pessoa extrovertida e muito empenhada, que sempre busca novos desafios, quanto mais o assunto é complicado, mais eu sinto que 
+devo superá-lo.  
+Tenho facilidade em trabalhar em grupos, prezo pela conexão entre os integrantes, ademais um grupo que apenas está junto é um conjunto de 
+pessoas, mas um que realmente é entrosado se torna um time, que pode trazer grandes benefícios.
+Desenvolvo trabalhos freelancers com artes no photoshop e design. O primeiro contato que tive com esse mundo tecnológico foi a criação de sites utilizando HTML, CSS e JS. Gosto muito, não apenas de "codar, mas sim fazer todo o processo desde o ponto de partida, como o uso de metodologias, ferramentas, linguagens entre outros. 
+No meu tempo livre sempre separo uma parte do tempo para jogar algo online, sempre achei que isso estimula uma parte criativa e de raciocínio lógico 
+no cérebro que ajuda muito quem programa, pois sabemos o quanto isso é importante na hora de resolver o problema do cliente.
+
 </p>
 
 - 🔭 Atualmente trabalhando com Front-End
