@@ -34,6 +34,6 @@ No meu tempo livre sempre separo uma parte do tempo para jogar algo online, pois
   <a href = "mailto:luizhgrodrigues@outloo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-henrique-góes-rodrigues-10713b230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/lhgrdev/lhgrdev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lhgrdev/LLhgr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
