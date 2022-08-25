@@ -1,14 +1,18 @@
 ### Olá, meu nome é Luiz
 <p>
-Sou uma pessoa extrovertida e muito empenhada, que sempre busca novos desafios, quanto mais o assunto é complicado, mais eu sinto que 
-devo superá-lo.  
-Tenho facilidade em trabalhar em grupos, prezo pela conexão entre os integrantes, um grupo que apenas está junto é um conjunto de pessoas, mas um que realmente é entrosado se torna um time.
-Desenvolvo trabalhos freelancers há mais de 2 anos com artes no photoshop e design. O primeiro contato que tive com esse mundo tecnológico foi a criação de sites utilizando HTML, CSS e JS. Gosto muito, não apenas de "codar", mas sim fazer todo o processo desde o ponto de partida, como o uso de metodologias, ferramentas, linguagens entre outros. 
-No meu tempo livre sempre separo uma parte do tempo para jogar algo online, pois acredito que isso estimula uma parte criativa e de raciocínio lógico no cérebro que ajuda muito quem programa, pois sabemos o quanto isso é importante na hora de resolver o problema do cliente.
+
+SOBRE MIM
+
+Sou uma pessoa extrovertida e muito empenhada, que sempre busca novos desafios, quanto mais o assunto é complicado, mais eu sinto que devo superá-lo. Tenho facilidade em trabalhar em grupos, prezo pela conexão entre os integrantes, um grupo que apenas está junto é um conjunto de pessoas, mas um que realmente é entrosado se torna um time.
+Além da profissão de desenvolvedor, já tenho experiência em design com photoshop e illustrator. Atualmente estudo para sempre aprimorar meus conhecimentos em busca de uma melhor colocação no mercado de trabalho, não tenho objeções à adaptação no ambiente de trabalho.
+
+OBJETIVOS
+
+Sempre em busca de evolução e buscando novos desafios. Atualmente trabalhando como desenvolvedor front-end utilizando Vue.js, porém me especializando em React com Typescript e também Node para back-end junto com MongoDB e AWS.
 
 </p>
 
-- 🔭 Atualmente trabalhando com Front-End
+- 🔭 Atualmente trabalhando com Front-End, especificamente com Vue.js
 - 🌱 Estudando JavaScript / TypeScript e React
 
 ##
