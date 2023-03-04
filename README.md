@@ -1,8 +1,6 @@
 ### Olá, meu nome é Luiz
 <p>
-
-ABOUT
-
+  
 Sempre em busca de evolução e de novos desafios, tenho facilidade em trabalhar em grupos, prezo pela conexão entre os integrantes, um grupo que apenas está junto é um conjunto de pessoas, mas um que realmente é entrosado se torna um time. Além da profissão de desenvolvedor, já tenho experiência em design e interfaces UI com figma, photoshop, illustrator. Atualmente estudando para sempre aprimorar meus conhecimentos em busca de uma melhor colocação no mercado de trabalho.
 
 ---
