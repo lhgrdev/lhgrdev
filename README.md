@@ -1,19 +1,15 @@
 ### Olá, meu nome é Luiz
 <p>
 
-SOBRE MIM
+ABOUT
 
-Sou uma pessoa extrovertida e muito empenhada, que sempre busca novos desafios, quanto mais o assunto é complicado, mais eu sinto que devo superá-lo. Tenho facilidade em trabalhar em grupos, prezo pela conexão entre os integrantes, um grupo que apenas está junto é um conjunto de pessoas, mas um que realmente é entrosado se torna um time.
-Além da profissão de desenvolvedor, já tenho experiência em design com photoshop e illustrator. Atualmente estudo para sempre aprimorar meus conhecimentos em busca de uma melhor colocação no mercado de trabalho, não tenho objeções à adaptação no ambiente de trabalho.
+Sempre em busca de evolução e de novos desafios, tenho facilidade em trabalhar em grupos, prezo pela conexão entre os integrantes, um grupo que apenas está junto é um conjunto de pessoas, mas um que realmente é entrosado se torna um time. Além da profissão de desenvolvedor, já tenho experiência em design e interfaces UI com figma, photoshop, illustrator. Atualmente estudando para sempre aprimorar meus conhecimentos em busca de uma melhor colocação no mercado de trabalho.
 
-OBJETIVOS
+---
 
-Sempre em busca de evolução e buscando novos desafios. Atualmente trabalhando como desenvolvedor front-end utilizando Vue.js, porém me especializando em React com Typescript e também Node para back-end junto com MongoDB e AWS.
+Always in search of evolution and new challenges, I have ease in working in groups and value the connection between team members. A group that is only together is a set of people, but one that is truly cohesive becomes a team. In addition to being a developer, I already have experience in design and UI interfaces with Figma, Photoshop, and Illustrator. Currently, I am studying to constantly improve my knowledge in search of a better position in the job market.
 
 </p>
-
-- 🔭 Atualmente trabalhando com Front-End, especificamente com Vue.js
-- 🌱 Estudando JavaScript / TypeScript e React
 
 ##
 
