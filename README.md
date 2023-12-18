@@ -1,11 +1,21 @@
-### Olá, meu nome é Luiz
+### Hi, My name is Luiz
 <p>
   
-Sempre em busca de evolução e de novos desafios, tenho facilidade em trabalhar em grupos, prezo pela conexão entre os integrantes, um grupo que apenas está junto é um conjunto de pessoas, mas um que realmente é entrosado se torna um time. Além da profissão de desenvolvedor, já tenho experiência em design e interfaces UI com figma, photoshop, illustrator. Atualmente estudando para sempre aprimorar meus conhecimentos em busca de uma melhor colocação no mercado de trabalho.
+I am constantly seeking new challenges to enhance my expertise in technology and software development, always attentive to innovation and excellence, with an aptitude for rapid learning, capable of quickly assimilating new languages and technologies, staying updated and adaptable to new challenges.
 
----
+Experience:
 
-Always in search of evolution and new challenges, I have ease in working in groups and value the connection between team members. A group that is only together is a set of people, but one that is truly cohesive becomes a team. In addition to being a developer, I already have experience in design and UI interfaces with Figma, Photoshop, and Illustrator. Currently, I am studying to constantly improve my knowledge in search of a better position in the job market.
+Dynamic Interface Design: Creation of dynamic interfaces for mobile and desktop, including dashboards, apps, and websites. Prioritizing ease of implementation for front-end programmers.
+
+Front-end Development: Exploring technologies like React, Vue, Tailwind, Material UI, and Sanity.io to create robust and engaging front-end experiences.
+
+Databases: Extensive knowledge in various databases such as MySQL, Oracle, Postgres, and MongoDB, to ensure solid and efficient foundations for projects.
+
+Back-end Development: Experience in creating RESTful APIs using Java Spring Boot and Python, aiming for efficient and high-performance systems.
+
+Architectures and Design Patterns: Application of MVC, MVVM, and Clean Architecture, implementing design patterns like Singleton, Observer, and Factory Method for highly scalable and robust systems.
+
+Detailed Documentation: Elaboration of thorough software documentation to simplify processes, APIs, and architectures, facilitating the understanding and maintenance of systems.
 
 </p>
 
